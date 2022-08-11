@@ -1,0 +1,12 @@
+package com.xworkz.java.simple;
+
+public class Simple {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str="Dyamanna H";
+		System.out.println(str+" "+str.length());
+
+	}
+
+}
