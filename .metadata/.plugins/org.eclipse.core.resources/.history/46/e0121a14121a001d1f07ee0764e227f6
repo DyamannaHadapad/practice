@@ -1,0 +1,16 @@
+package com.xworkz.java.simple;
+
+public class Integer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		String a=new String("Dyamanna");
+		System.out.println(a+a.length());
+		
+		//Integer value=new Integer(5);
+		//System.out.println(value);
+    
+	}
+
+}

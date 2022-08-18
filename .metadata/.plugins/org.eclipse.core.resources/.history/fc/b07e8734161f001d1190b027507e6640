@@ -1,0 +1,19 @@
+package com.xworkz.inheritance.runner;
+
+import com.xworkz.inheritance.sub.EarthPlanet;
+
+public class EarthPlanetRunner {
+
+	public static void main(String[] args) {
+		EarthPlanet earthPlanet=new EarthPlanet();
+		earthPlanet.color="Blue";
+		earthPlanet.lives=true;
+		earthPlanet.name="Earth";
+		earthPlanet.population=131d;
+		earthPlanet.radius=6731;
+		earthPlanet.shape="oval";
+		earthPlanet.torisu();
+
+	}
+
+}

@@ -1,0 +1,32 @@
+package com.xworkz.java.simple;
+
+public class Integers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=5;
+		Integer value=new Integer(a);
+		System.out.println(value);
+    
+		String b="101";
+		Integer val=new Integer(b);
+		System.out.println(val);
+		
+		byte s1=value.byteValue();
+		System.out.println(s1);
+		
+	    int S2=value.compareTo(5);
+		System.out.println(S2);
+				
+		double s3=value.doubleValue();
+		System.out.println(s3);
+		
+	float c=value.floatValue();
+	System.out.println(a);
+		
+		
+		
+		
+	}
+
+}

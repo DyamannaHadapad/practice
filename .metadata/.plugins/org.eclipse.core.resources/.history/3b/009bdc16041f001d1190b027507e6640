@@ -1,0 +1,20 @@
+package com.xworkz.inheritance.runner;
+
+import com.xworkz.inheritance.sub.MangoFruit;
+import com.xworkz.inheritance.superclass.Fruit;
+
+public class fruitRunner {
+
+	public static void main(String[] args) {
+	MangoFruit mangoFruit=new MangoFruit("MANGO",30.99d,false,"mango",20d,true);
+	
+	Fruit fruit=new MangoFruit("MANGO",30.99d,false);
+	
+	MangoFruit convert=(MangoFruit) fruit;
+	convert.torisu();
+	
+		Fruit fruit1=new Fruit("MANGo",100d,true);
+		convo.torisu();
+	}
+
+}

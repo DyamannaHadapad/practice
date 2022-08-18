@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;corejava/programs/com/xworkz/java/dy&apos; to &apos;12_08&apos;" description="Rename resource &apos;dy&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="programs/com/xworkz/java/dy" name="12_08" stamp="1660319114205" updateReferences="true"/>
+</session>

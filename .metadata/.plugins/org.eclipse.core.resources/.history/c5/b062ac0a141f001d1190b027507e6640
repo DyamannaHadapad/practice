@@ -1,0 +1,20 @@
+package com.xworkz.inheritance.sub;
+
+public class EarthPlanet extends planet{
+       public String shape;
+       public boolean lives;
+       public double population;
+       
+       
+       public EarthPlanet() {
+		super();
+	 }
+       public EarthPlanet(String shape,boolean lives,double population) {
+    	   this.shape=shape;
+    	   this.lives=lives;
+    	   this.population=population;
+    	   super.name=name;
+    	   super.radius=radius;
+    	   super.color=color;
+       }
+}

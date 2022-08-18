@@ -1,0 +1,32 @@
+package com.xworkz.inheritance.sub;
+
+import com.xworkz.inheritance.superclass.Fruit;
+
+public class MangoFruit extends Fruit {
+	public String fruit;
+	public double weight;
+	public boolean hot;
+
+	public MangoFruit() {
+		System.out.println("child class");
+	}
+
+	public MangoFruit(String fruit, double weight, boolean hot) {
+		this.fruit=fruit;
+		this.weight=weight; 
+		this.hot=hot;
+		super.name = name;
+		super.price = price;
+		super.sweet = sweet;
+
+	}
+
+	public void torisu() {
+		System.out.println(super.name);
+		System.out.println(super.price);
+		System.out.println(super.sweet);
+		System.out.println(this.fruit);
+		System.out.println(this.weight);
+		System.out.println(this.hot);
+	}
+}

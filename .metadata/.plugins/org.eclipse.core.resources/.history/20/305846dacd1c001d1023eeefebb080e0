@@ -1,0 +1,8 @@
+package com.xworkz.inheritance.metro;
+
+public class Train extends Metro {
+	public Train(String string, int i, String string2, String string3, double d) {
+		System.out.println("Running train defult constructor");
+	}
+
+}

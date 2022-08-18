@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
+    <fullyQualifiedTypeName name="javax.sound.midi.SysexMessage"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.xworkz.java.interfaces.Chrome"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.bike.Bike"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.bike.Cycle"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.metro.Metro"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.metro.Train"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.Fruit"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.MangoFruit"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.Planet"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.EarthPlanet"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.Bengaluru"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.City"/>
+</qualifiedTypeNameHistroy>
