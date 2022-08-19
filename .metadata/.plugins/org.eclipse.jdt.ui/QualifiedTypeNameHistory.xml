@@ -16,4 +16,6 @@
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.Bengaluru"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.City"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.Pipe"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.Plastic"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,11 @@
+package com.xworkz.inheritance.sub;
+
+import com.xworkz.inheritance.superclass.keyboard;
+
+public class Touchpad extends keyboard{
+	
+public Touchpad() {
+	// TODO Auto-generated constructor stub
+}	
+
+}

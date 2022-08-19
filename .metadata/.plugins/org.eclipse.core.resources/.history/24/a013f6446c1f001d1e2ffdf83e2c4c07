@@ -1,0 +1,21 @@
+package com.xworkz.inheritance.runner;
+
+import com.xworkz.inheritance.sub.Touchpad;
+
+public class TouchpadRunner {
+
+	public static void main(String[] args) {
+		
+		Touchpad touch=new Touchpad();
+		touch.name="laptop";
+		touch.brand="acer";
+		touch.color="Black";
+		touch.ratings=4.5;
+		touch.performence="Good";
+		touch.price=55000d;
+		touch.torisu();
+		
+	}
+	//up-casting
+     K
+}

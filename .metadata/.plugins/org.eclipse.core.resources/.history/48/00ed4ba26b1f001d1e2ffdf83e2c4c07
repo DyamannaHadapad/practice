@@ -1,0 +1,19 @@
+package com.xworkz.inheritance.superclass;
+
+public class keyboard {
+
+	public String name;
+	public String brand;
+	public double ratings;
+
+	public keyboard() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public keyboard(String name, String brand, double ratings) {
+		this.brand = brand;
+		this.name = name;
+		this.ratings = ratings;
+	}
+
+}
