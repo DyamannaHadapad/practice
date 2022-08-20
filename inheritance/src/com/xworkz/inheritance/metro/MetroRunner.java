@@ -7,5 +7,5 @@ public class MetroRunner {
 		Metro metro = new Metro("Namma Metro", 20, "Banashankari", "Jayanagar", 50d);
 		metro.printData();
 	}
-
 }
+

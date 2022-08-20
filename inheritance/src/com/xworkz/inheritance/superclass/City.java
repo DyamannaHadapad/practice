@@ -1,7 +1,5 @@
 package com.xworkz.inheritance.superclass;
 
-import java.security.PublicKey;
-
 public class City {
 	public String name;
 	public String founder;

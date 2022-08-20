@@ -1,0 +1,20 @@
+package com.xworkz.inheritance.sub;
+
+public class SuperMarket {
+	public String name1;
+	public int id;
+	public String type1;
+	
+	public SuperMarket() {
+		//super();
+		System.out.println("defult constr of SperMarket");
+	}
+	public SuperMarket(String name1,int id,String type1,String name, String type, int shops) {
+		super( name,  type,  shops);
+		this.name1=name1;
+		this.id=id;
+		this.type1=type1;
+		System.out.println("defult constr of SperMarket");
+	}
+
+}

@@ -11,13 +11,11 @@ public class Bengaluru extends City {
 		System.out.println("bengaluru defult constr");
 	}
 
-	public Bengaluru(String capital, double population, boolean capitalOfKA) {
+	public Bengaluru(String capital, double population, boolean capitalOfKA,String name, String founder, double area) {
+	super( name,  founder,  area);
 		this.population = population;
 		this.capital = capital;
 		this.capitalOfKA = capitalOfKA;
-		super.area = area;
-		super.founder = founder;
-		super.name = name;
 	}
 
 	public void torisu() {
