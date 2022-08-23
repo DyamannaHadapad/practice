@@ -8,20 +8,21 @@ public class MarketRunner {
 
 	public static void main(String[] args) {
 
-		SuperMarket superMarket = new SuperMarket("SuperBazar", 23456, "offline", "haha", "mannual", 115);
-		superMarket.torisu();
+		SuperMarket supers = new SuperMarket("MARKET", 34567, "Mannual", "Bazar", "offline", 115);
+		supers.torisu();
 
-		Market market = new SuperMarket();
-		SuperMarket superMarket1 = (SuperMarket) market;
-		superMarket.torisu();
+		Market market = new SuperMarket("non", 34567, "Mannual", "gun", "offline", 200);
+		SuperMarket ref = (SuperMarket) market;
+		ref.torisu();
 
-		OnlineSuperMarket online = new OnlineSuperMarket("D-mart", "onlinetype", 9 - 30d, "haha", "mannual", 115);
+		OnlineSuperMarket online = new OnlineSuperMarket("D-mart", "ONLINE", 9.30, "MARKET", 34567, "Mannual", "Bazar",
+				"offline", 115);
 		online.torisu();
 
-		Market market1 = new OnlineSuperMarket();
-		OnlineSuperMarket online1 = (OnlineSuperMarket) market1;
+		SuperMarket supers1 = new OnlineSuperMarket("Decetlon", "ONLINE", 10.30, "MARKET", 34567, "Mannual", "Bazar",
+				"OFFLINE", 500);
+		OnlineSuperMarket online1 = (OnlineSuperMarket) supers1;
 		online1.torisu();
 
 	}
-
 }

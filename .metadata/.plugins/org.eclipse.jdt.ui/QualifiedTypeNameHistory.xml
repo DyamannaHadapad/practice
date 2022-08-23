@@ -18,4 +18,7 @@
     <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.City"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.Pipe"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.Plastic"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.Market"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.SuperMarket"/>
+    <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.OnlineSuperMarket"/>
 </qualifiedTypeNameHistroy>

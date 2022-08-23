@@ -1,8 +1,0 @@
-package com.xworkz.java.12_08;
-
-public class Hi {
-	public static void main(String[] args) {
-		System.out.println("hoo");
-	}
-
-}
