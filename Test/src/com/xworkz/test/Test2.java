@@ -2,23 +2,20 @@ package com.xworkz.test;
 
 public class Test2 {
 
-	public String name;
-
-	public Test2(String name) {
-		System.out.println("Defult constr");
-	}
-
 	public static void main(String[] args) {
-
-//		creation of obj by litrals
+		String name="Dyamanna";
+		char value='a';
 		
-		String str1 = "Dyamanna H";
-		System.out.println(str1.length());
-
-//		creation of obj by constr
+		int k=0;
+		for(int i=0;i<name.length();i++) {
+			if(name.charAt(i)==value) {
+				k++;
+				
+			}
+			
+		}
 		
-		String str = new String("Dyamanna Hadapad");
-		System.out.println(str.length());
+		System.out.println("Number os char "+value+"  in name  "+name+" is "+k);
 	}
 
 }
