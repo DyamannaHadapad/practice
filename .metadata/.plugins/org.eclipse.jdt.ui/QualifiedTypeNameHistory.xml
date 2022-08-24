@@ -21,4 +21,11 @@
     <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.Market"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.SuperMarket"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.sub.OnlineSuperMarket"/>
+    <fullyQualifiedTypeName name="java.lang.ClassCastException"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.superclass.Cricket"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.superclass.HondaAutomobile"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.superclass.Automobile"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.runnerclass.AutomobileRunner"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.baseclass.TataAutomobile"/>
 </qualifiedTypeNameHistroy>

@@ -1,7 +1,0 @@
-package com.xworkz.java.interfaces;
-
-public class Chrome extends Browser {
-	public void display() {
-		System.out.println("Running Display method");
-	}
-}
