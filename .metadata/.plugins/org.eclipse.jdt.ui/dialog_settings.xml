@@ -52,7 +52,7 @@
 		<item key="index" value="0"/>
 	</section>
 	<section name="SourceActionDialog.constructors">
-		<item key="VisibilityModifier" value="1"/>
+		<item key="VisibilityModifier" value="4"/>
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
@@ -79,7 +79,7 @@
 		</section>
 	</section>
 	<section name="SourceActionDialog.methods">
-		<item key="VisibilityModifier" value="1"/>
+		<item key="VisibilityModifier" value="4"/>
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>

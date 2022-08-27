@@ -28,4 +28,12 @@
     <fullyQualifiedTypeName name="com.xworkz.polymorphism.superclass.Automobile"/>
     <fullyQualifiedTypeName name="com.xworkz.polymorphism.runnerclass.AutomobileRunner"/>
     <fullyQualifiedTypeName name="com.xworkz.polymorphism.baseclass.TataAutomobile"/>
+    <fullyQualifiedTypeName name="com.xworkz.test.Test2"/>
+    <fullyQualifiedTypeName name="java.nio.file.attribute.AclEntry"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.runnerclass.TrainerRunner"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.superclass.Omkar"/>
+    <fullyQualifiedTypeName name="com.xworkz.polymorphism.superclass.Tranier"/>
+    <fullyQualifiedTypeName name="com.xworkz.object.superclass.Fish"/>
+    <fullyQualifiedTypeName name="com.xworkz.object.superclass.Bottel"/>
+    <fullyQualifiedTypeName name="com.xworkz.object.Runner.BottelRunner"/>
 </qualifiedTypeNameHistroy>
