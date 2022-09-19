@@ -2,4 +2,11 @@
 <typeInfoHistroy>
     <typeInfo handle="=Polymorphism/C:\/Users\/acer\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1659676830000"/>
     <typeInfo handle="=Polymorphism/src&lt;com.xworkz.polymorphism.superclass{Tranier.java[Tranier" modifiers="1" timestamp="1661415826000"/>
+    <typeInfo handle="=tourist/src&lt;com.xworkz.tourist.dao{TouristDAO.java[TouristDAO" modifiers="513" timestamp="1663306585630"/>
+    <typeInfo handle="=tourist/src&lt;com.xworkz.tourist.service{TouristService.java[TouristService" modifiers="513" timestamp="1663303089135"/>
+    <typeInfo handle="=tourist/src&lt;com.xworkz.tourist.dao{MinisterDAO.java[MinisterDAO" modifiers="513" timestamp="1663305189756"/>
+    <typeInfo handle="=tourist/C:\/Users\/acer\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047\/jre\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;javax.sound.midi(MidiDeviceReceiver.class[MidiDeviceReceiver" modifiers="1537" timestamp="1659676830000"/>
+    <typeInfo handle="=tourist/src&lt;com.xworkz.tourist.service{MinisterService.java[MinisterService" modifiers="513" timestamp="1663303713885"/>
+    <typeInfo handle="=tourist/C:\/Users\/acer\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047\/jre\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.beans(ExceptionListener.class[ExceptionListener" modifiers="1537" timestamp="1659676830000"/>
+    <typeInfo handle="=tourist/C:\/Users\/acer\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1659676830000"/>
 </typeInfoHistroy>

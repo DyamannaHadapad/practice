@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
-    <fullyQualifiedTypeName name="javax.sound.midi.SysexMessage"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="com.xworkz.java.interfaces.Chrome"/>
-    <fullyQualifiedTypeName name="com.xworkz.inheritance.bike.Bike"/>
-    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
-    <fullyQualifiedTypeName name="com.xworkz.inheritance.bike.Cycle"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.metro.Metro"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.metro.Train"/>
     <fullyQualifiedTypeName name="com.xworkz.inheritance.superclass.Fruit"/>
@@ -36,4 +29,35 @@
     <fullyQualifiedTypeName name="com.xworkz.object.superclass.Fish"/>
     <fullyQualifiedTypeName name="com.xworkz.object.superclass.Bottel"/>
     <fullyQualifiedTypeName name="com.xworkz.object.Runner.BottelRunner"/>
+    <fullyQualifiedTypeName name="com.xworkz.abstraction.sub.Prepaid"/>
+    <fullyQualifiedTypeName name="com.xworkz.abstraction.superclass.SimCard"/>
+    <fullyQualifiedTypeName name="com.xworkz.abstraction.sub.Postpaid"/>
+    <fullyQualifiedTypeName name="com.xworkz.exception.dto.MovieDTO"/>
+    <fullyQualifiedTypeName name="com.xworkz.exception.dao.MovieDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.exception.dao.impl.MovieDAOImpl"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.xworkz.exception.dto.ApartmentDTO"/>
+    <fullyQualifiedTypeName name="com.xworkz.exception.dao.ApartmentDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.exception.dao.impl.ApartmentDAOImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.casinoDAO.impl.CasinoDAOImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.casinoDAO.CasinoDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.casino.service.impl.CasinoServiceImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.casino.service.CasinoService"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.dao.TouristDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.dao.impl.TouristDAOImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.service.impl.TouristServiceImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.service.TouristService"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.exception.InvalidPlaceException"/>
+    <fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.exception.unchecked.InvalidPlaceRuntimeException"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.dao.MinisterDAO"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.dao.impl.MinisterDAOImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.service.MinisterService"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.service.impl.MinisterServiceImpl"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.checkedexception.InvalidNameCheckedException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="com.xworkz.tourist.uncheckedexception.InvalidUncheckedException"/>
 </qualifiedTypeNameHistroy>
